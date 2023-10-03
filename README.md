@@ -1,1 +1,1 @@
-# Studyng-algos
+# studying-algos
